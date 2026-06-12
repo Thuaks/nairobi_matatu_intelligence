@@ -54,7 +54,7 @@ This project demonstrates how data science and machine learning can improve publ
 
 Built to showcase practical skills in **Data Science, SQL, Machine Learning, Business Intelligence, and Full-Stack Analytics Engineering.
 
-##🖋️Author
+🖋️Author
 
 
 Alex Thuku
