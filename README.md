@@ -58,7 +58,6 @@ This project demonstrates how data science and machine learning can improve publ
 ##  Author
 
 **Alex Thuku**
-Data Scientist | Full-Stack Developer | IT Engineer
 
 
 Passionate about building data-driven solutions that transform complex datasets into actionable business insights through analytics, machine learning, and modern software engineering.
