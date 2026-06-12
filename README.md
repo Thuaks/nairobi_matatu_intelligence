@@ -44,7 +44,7 @@ README.md
 * Fare prediction based on distance and congestion
 * Revenue optimization opportunities
 
-## 🚀 Running the Project
+##  Running the Project
 
 ```bash
 pip install streamlit pandas numpy scikit-learn plotly
