@@ -1,4 +1,4 @@
-# 🚐 Nairobi Matatu Intelligence System
+#  Nairobi Matatu Intelligence System
 
 A data-driven transport analytics platform built with **Python, SQL, Machine Learning, and Streamlit** to simulate and analyze Nairobi's matatu ecosystem.
 
