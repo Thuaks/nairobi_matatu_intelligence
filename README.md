@@ -1,4 +1,4 @@
-#  Nairobi Matatu Intelligence System
+# 🚐 Nairobi Matatu Intelligence System
 
 A data-driven transport analytics platform built with **Python, SQL, Machine Learning, and Streamlit** to simulate and analyze Nairobi's matatu ecosystem.
 
@@ -35,7 +35,7 @@ matatu_data.db
 README.md
 ```
 
-## Key Insights Generated
+## 🎯 Key Insights Generated
 
 * Most profitable routes
 * Peak traffic periods
@@ -44,17 +44,24 @@ README.md
 * Fare prediction based on distance and congestion
 * Revenue optimization opportunities
 
+## 🚀 Running the Project
 
+```bash
+pip install streamlit pandas numpy scikit-learn plotly
+streamlit run matatu_intelligence.py
+```
 
 ## 📈 Business Impact
 
 This project demonstrates how data science and machine learning can improve public transport operations through smarter route planning, demand forecasting, pricing optimization, and performance monitoring.
 
+## 👨‍💻 Author
+
+**Alex Thuku**
+Data Scientist | Full-Stack Developer | IT Engineer
+
+
+Passionate about building data-driven solutions that transform complex datasets into actionable business insights through analytics, machine learning, and modern software engineering.
+
 ---
 
-Built to showcase practical skills in **Data Science, SQL, Machine Learning, Business Intelligence, and Full-Stack Analytics Engineering.
-
-🖋️Author
-
-
-Alex Thuku
